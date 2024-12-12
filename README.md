@@ -1,6 +1,9 @@
-# Dokuwiki Kiwiki Theme
+> Changes in this fork
+>
+> - Synchronise wiki editing section with light/dark mode by setting it as the background colour (likely won't work well for some themes)
+> - Make the search button have the same styling as all other buttons
 
-> See the changes this fork makes [here](https://github.com/nicolasprigent/Dokuwiki-Kiwiki-Theme/compare/main...looowizz:Dokuwiki-Kiwiki-Theme:main)
+# Dokuwiki Kiwiki Theme
 
 Flex theme with lots of css fix and some ease of use features. You can change all colors of the theme to your own taste.
 Templage page on Dokuwiki : https://www.dokuwiki.org/template:kiwiki
